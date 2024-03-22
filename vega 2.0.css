@@ -1,0 +1,63 @@
+ div{
+    padding: 100px;
+    text-decoration: none;
+    text-align: center;
+    
+}
+
+em a{
+    text-decoration: none;
+    text-align: center;
+    background-color:red;
+    color:WHITE;
+    border-radius: 10px;
+    padding:0px 90px;
+    max-width: 1032px;
+    flex-direction: column;
+
+}
+
+p{
+    background-color: skyblue;
+}
+ 
+footer p1{
+        text-align: right;
+    }
+footer feedback{
+    text-align: start;
+}
+
+.carousel-cell {
+    width: 66%;
+    margin-right: 10px;
+    border-radius: 5px;
+  }
+
+.carousel-cell video{
+    max-width: 100%;
+  }
+
+form{
+    float:right;
+   
+}
+h1{
+    text-align: center;
+
+}
+
+nav{
+    padding:0px 15px;
+    float:right;
+    flex:initial;
+    
+}
+
+  :hover{
+    color:black;
+}
+
+h3{
+    color:red ;
+}
